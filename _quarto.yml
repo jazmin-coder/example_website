@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Best Website Ever"
+  site-url: "https://jazmin-coder.github.io/example_website/"
   navbar:
     left:
       - href: index.qmd
@@ -13,11 +14,9 @@ website:
 
 format:
   html:
-    theme: sandstone
+    theme: journal
     mainfont: arial
     fontsize: 1.5rem
-    fontcolor: "#9C3C27"
-    linkcolor: "#ff33f0"
     monofont: courier new
     css: styles.css
     toc: true
