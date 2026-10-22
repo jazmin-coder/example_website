@@ -11,7 +11,7 @@ website:
         text: About
       - href: test_page.qmd
         text: Fall 2026
-      - href: Resume.qmd
+      - href: resume.qmd
         text: Resume
   sidebar:
     style: docked
