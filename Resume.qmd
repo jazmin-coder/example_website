@@ -8,4 +8,4 @@ title: "Resume"
 
 <br>
 
-<iframe src="myresume.pdf" width="100%" height="850px" style="border: 1px solid #ccc; border-radius: 4px;"></iframe> 
+<embed src="resume.pdf" type="application/pdf" width="100%" height="600px">
