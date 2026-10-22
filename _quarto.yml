@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - resume.pdf
 
 website:
   title: "Best Website Ever"
@@ -11,7 +13,6 @@ website:
         text: About
       - href: test_page.qmd
         text: Fall 2026
-        
   sidebar:
     style: docked
     search: true
@@ -19,7 +20,5 @@ website:
 format:
   html:
     theme: theme/brite.scss
-      
+
 editor: visual
-
-
