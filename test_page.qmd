@@ -2,7 +2,6 @@
 title: "Fall 2026 Courses"
 ---
 
-
 This semester I am taking the following courses:
 
 - PA541 Advanced Data Analysis I with Dr. Kate Albrecht

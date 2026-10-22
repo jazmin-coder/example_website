@@ -1,0 +1,11 @@
+---
+title: "Resume"
+---
+
+::: {.text-center}
+[Download PDF Resume](resume.pdf)
+:::
+
+<br>
+
+<iframe src="resume.pdf" width="100%" height="850px" style="border: 1px solid #ccc; border-radius: 4px;"></iframe> 
