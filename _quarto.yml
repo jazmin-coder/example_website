@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Best Website Ever"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+
+format:
+  html:
+    theme: sandstone
+    mainfont: arial
+    fontsize: 1.5rem
+    fontcolor: "#9C3C27"
+    linkcolor: "#ff33f0"
+    monofont: courier new
+    css: styles.css
+    toc: true
+
+editor: visual
+
