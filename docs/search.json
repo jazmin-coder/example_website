@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to the Home Page",
+    "title": "Jazmin Cali",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   },
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "test_page.html",
+    "href": "test_page.html",
+    "title": "Fall 2026 Courses",
+    "section": "",
+    "text": "This semester I am taking the following courses:\n\nPA541 Advanced Data Analysis I with Dr. Kate Albrecht\nPA446 Coding Civic Data Applications with Dr. Saman Shafiq"
   }
 ]

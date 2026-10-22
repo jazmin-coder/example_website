@@ -1,5 +1,11 @@
 ---
-title: "test_page"
+title: "Fall 2026 Courses"
 format: html
 ---
 
+
+This semester I am taking the following courses:
+
+- PA541 Advanced Data Analysis I with Dr. Kate Albrecht
+
+- PA446 Coding Civic Data Applications with Dr. Saman Shafiq

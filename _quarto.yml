@@ -8,18 +8,18 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - href: about.qmd
         text: About
+      - href: test_page.qmd
+        text: Fall 2026
+        
+  sidebar:
+    style: docked
+    search: true
 
 format:
   html:
-    theme: journal
-    mainfont: arial
-    fontsize: 1.5rem
-    monofont: courier new
-    css: styles.css
-    toc: true
-
+    theme: theme/brite.scss
+      
 editor: visual
+
 
