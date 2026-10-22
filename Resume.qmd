@@ -6,6 +6,5 @@ title: "Resume"
 [Download PDF Resume](myresume.pdf)
 :::
 
-<br>
 
 <embed src="resume.pdf" type="application/pdf" width="100%" height="600px">
